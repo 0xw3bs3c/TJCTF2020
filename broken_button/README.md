@@ -1,0 +1,1 @@
+flag: tjctf{wHa1_A_Gr8_1nsp3ct0r!}
