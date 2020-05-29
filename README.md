@@ -7,3 +7,5 @@ Writeups for TJCTF 2020
 - [x] Gym
 - [x] Ling_ling
 - [x] Speedrunner
+- [x] Login
+- [x] Sarah Palin Fanpage
